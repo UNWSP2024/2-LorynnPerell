@@ -1,5 +1,4 @@
 def personal_information():
-  
   print("Name: Lorynn Perell")
   print("Address: 1234 Main St, New York, NY 10001")
   print("Zipcode: 10007")
