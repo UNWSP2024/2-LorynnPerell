@@ -1,5 +1,3 @@
-
-
 age1 = int(input("Enter age of friend 1: "))
 age2 = int(input("Enter age of friend 2: "))
 age3 = int(input("Enter age of friend 3: "))
