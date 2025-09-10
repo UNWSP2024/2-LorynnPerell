@@ -15,5 +15,4 @@ def calculate_total_purchase():
     print("sales tax: $", format(sales_tax, ".2f"), sep=" ")
     print("Total: $", format(total, ".2f"), sep=" ")
     # Assume the sales tax is 7 percent.
-
 calculate_total_purchase()
