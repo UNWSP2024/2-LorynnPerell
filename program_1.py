@@ -4,7 +4,5 @@ def personal_information():
   print("Zipcode: 10007")
   print("Phone number: 651-763-5500")
   print("College major: Computer science and criminology")
-
-
 # Line which calls the above function.
 personal_information()
